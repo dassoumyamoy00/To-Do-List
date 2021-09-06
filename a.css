@@ -1,0 +1,95 @@
+body{
+	text-align: center;
+	background-image: url("a7.jpg");
+	background-position: center; 
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#listinput{
+	margin-top: 3%;
+	height: 7%;
+	width: 25%;
+	border-radius: 10px;
+	border: none;
+	font-size: 20px;
+	font-family: "Comic Sans MS";
+	padding-left: 10px;
+	background-color: #f2edc2;
+}
+
+.fas.fa-plus{
+	margin-left: 15px;
+	border: none;
+	border-radius: 10px;
+	color: red;
+	background-color: #f2edc2;
+	font-size: 25px;
+	cursor: pointer;
+	height: 7%;
+	width: 4%;
+}
+
+.allspan2{
+	display: table-cell;
+	text-align: justify;
+	vertical-align: middle;
+	width: 900px;
+	padding: 25px;
+	font-size: 25px;
+	font-family: "ar cena";
+}
+
+.fas.fa-trash-alt{
+	//background-color: red;
+	background-image: url("a7.jpg");
+	border: none;
+	border-radius: 30px;
+	color: white;
+	padding: 10px;
+	font-size: 16px;
+	cursor: pointer;
+	height: fit-content;
+	width: fit-content;
+}
+
+.far.fa-circle, .far.fa-check-circle{
+	background-color: white;
+	border: none;
+	border-radius: 100%;
+	color: #f5d02a;
+	padding: 0px;
+	font-size: 26px;
+	cursor: pointer;
+	height: fit-content;
+	width: fit-content;
+	margin: 0px;
+}
+
+.allspan1{
+	display: table-cell;
+	vertical-align: middle;
+	width: 5%;
+	padding-left: 40px;
+}
+
+.allspan3{
+	display: table-cell;
+	vertical-align: middle;
+	width: 10%;
+	padding-right: 35px;
+}
+
+.para{
+	margin-top: 5%;
+	background-color: #f5d02a;
+	background-repeat: no-repeat;
+	border-radius: 20px;
+}
+
+#list{
+	margin-left: 25%; 
+	margin-right: 25%;
+	width: 50%;
+	min-height: 70%;
+}
