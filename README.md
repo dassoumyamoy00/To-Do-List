@@ -22,7 +22,7 @@ Since this is a front-end only project, hence the data/list entered by an user a
 
 ## References
 
-[Images used in interface](https://unsplash.com/)
+[Image used in interface](https://unsplash.com/)
 
 
 <br><br>
