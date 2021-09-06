@@ -4,12 +4,12 @@
 
 At some point of time, we always feel of jotting down the important activities/points in the form of list, so that it is visually attractive, at a glance to the user at any time.
 
-Hence, I have tried to come up with a simple web application which can used as a To-Do List, or as a Shopping List.
+Hence, I have tried to come up with a simple web application which can used as a To-Do List, Check List or as a Shopping List.
 
 ## Features
 
 1. Data of any length can be added without disturbing the interface
-2. Once an activity/entry is done, it can be striked out by clicking on the radio button and again can be undone; without deleting that complete entry
+2. *Cross Off Tasks* : Once an activity/entry is done, it can be striked out by clicking on the radio button and again can be undone; without deleting that complete entry
 3. Data from the list can be deleted in any order
 
 ## Languages
@@ -22,7 +22,8 @@ Since this is a front-end only project, hence the data/list entered by an user a
 
 ## References
 
-[Image used in interface](https://unsplash.com/)
+[Image used in interface](https://unsplash.com/)<br>
+[Icons used in interface](https://fontawesome.com/)
 
 
 <br><br>
