@@ -18,11 +18,11 @@ Completely Front-End based (HTML, CSS and JavaScript)
 
 ## Limitations
 
-Since this is a front-end only project, hence the data/list entered by an user at a point of time could never be retrived later on, once the browser is closed. This can be overcome by storing the information in a database for separate user logins. This would also enhance security.
+Since this is a front-end only project, hence the data/list entered by an user at a point of time could never be retrieved later on, once the browser is closed. This can be overcome by storing the information in a database for separate user logins. This would also enhance security.
 
 ## References
 
-[Images used in development](https://unsplash.com/)
+[Images used in interface](https://unsplash.com/)
 
 
 <br><br>
