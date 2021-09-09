@@ -19,15 +19,27 @@ body{
 }
 
 .fas.fa-plus{
-	margin-left: 15px;
+	//margin-left: 15px;
 	border: none;
 	border-radius: 10px;
 	color: red;
 	background-color: #f2edc2;
 	font-size: 25px;
-	cursor: pointer;
-	height: 7%;
+	//cursor: pointer;
+	height: fit-content;
+	width: fit-content;
+}
+
+.btn{
+	background-color: #f2edc2;
+	margin-left: 15px;
+	border: none;
+	border-radius: 10px;
+	height: 6.7%;
 	width: 4%;
+	min-height: fit-content;
+	min-width: fit-content;
+	cursor: pointer;
 }
 
 .allspan2{
