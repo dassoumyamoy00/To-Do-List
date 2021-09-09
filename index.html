@@ -1,6 +1,8 @@
 <html>
+	<meta name="viewport" content="width=device-width"/>
 	<title>To Do List</title>
 	<head>
+		<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.12.1/css/all.min.css" integrity="sha256-mmgLkCYLUQbXn0B1SRqzHar6dCnv9oZFPEC1g1cwlkk=" crossorigin="anonymous">
 		<link rel="stylesheet" href="a.css">
 		<script src="a.js"></script>
 		<script src="https://kit.fontawesome.com/fefdb044d2.js" crossorigin="anonymous"></script>
@@ -8,7 +10,7 @@
 	<body>
 		<p>
 			<input type="text" placeholder="Start typing..." id="listinput">
-			<button onclick="addData()" class="fas fa-plus"></button>
+			<button class="btn" onclick="addData()"><i class="fas fa-plus"></i></button>
 		</p>
 
 		<div id="list"></div>
